@@ -6,6 +6,7 @@ public class TesteIntegracao {
 		// TODO Auto-generated method stub
 		System.out.println("Primeiro teste");
 		System.out.println("segundo teste");
+		System.out.println("commit vindo do github");
 
 	}
 
